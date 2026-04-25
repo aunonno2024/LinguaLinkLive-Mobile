@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_dark">#080820</color>
+    <color name="navy_medium">#0D0D35</color>
+    <color name="navy_light">#12124A</color>
+    <color name="magenta_primary">#C0006A</color>
+    <color name="magenta_dark">#8B0050</color>
+    <color name="magenta_light">#E0008A</color>
+    <color name="teal_accent">#00E5D0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_dark">#1A1A3E</color>
+    <color name="pill_outline">#C0006A</color>
+    <color name="bubble_him">#C0006A</color>
+    <color name="bubble_you">#9B00C0</color>
+    <color name="call_red">#E53935</color>
+    <color name="call_green">#43A047</color>
+    <color name="video_blue">#1565C0</color>
+    <color name="transparent">#00000000</color>
+</resources>
